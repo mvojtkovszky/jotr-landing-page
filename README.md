@@ -1,6 +1,6 @@
 # Jotr Landing Page
 
-Static landing page for [Jotr – Quickly Draw & Sketch](https://jotr-draw-and-sketch.webflow.io/).
+Static landing page for [Jotr – Quickly Draw & Sketch](https://jotr.app).
 
 ## Structure
 
